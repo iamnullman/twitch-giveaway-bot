@@ -1,0 +1,31 @@
+{
+  "name": "efdb",
+  "version": "1.2.0-beta",
+  "description": "A database handler, Supports YamlDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamnullman/efdb.git"
+  },
+  "keywords": [
+    "efdb",
+    "yaml",
+    "eftools",
+    "database",
+    "yamldatabase",
+    "jsondatabase",
+    "jsondb"
+  ],
+  "author": "iamnullman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamnullman/efdb/issues"
+  },
+  "homepage": "https://github.com/iamnullman/efdb#readme",
+  "dependencies": {
+    "eftools": "^1.0.2"
+  }
+}
